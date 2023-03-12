@@ -1,0 +1,33 @@
+* {
+  padding: 0;
+  margin: 0;
+  box-sizing: border-box;
+}
+body {
+  font-family: Arial;
+  line-height: 1, 2;
+  background-color: aliceblue;
+}
+.mergin {
+  margin: 120px;
+}
+.mar {
+  margin: 20px;
+}
+.qwe {
+  text-align: center;
+}
+img {
+  margin-top: 20px;
+  width: 300px;
+  height: 300px;
+}
+.cursor {
+  cursor: pointer;
+}
+a {
+  text-decoration: none;
+}
+a:hover {
+  color: black;
+}
